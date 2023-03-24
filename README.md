@@ -1,4 +1,4 @@
-# ishraqrahman_lab7
+# Lab7: PCB Design
 
 ## Team Members
 - team member 1: Ishraq Rahman
